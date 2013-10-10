@@ -1,2 +1,3 @@
 [config]
-WORKER_COMMAND=run.cmd
+PROJECT=subFolder
+WORKER_COMMAND=runProject.cmd

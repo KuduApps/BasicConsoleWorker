@@ -1,0 +1,2 @@
+[config]
+WORKER_COMMAND=run.cmd
